@@ -9,7 +9,8 @@
       "name": "Chambers - My Utmost For His Highest",
       "description": "My Utmost For His Highest",
       "author": "Chambers",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "chambers_my_utmost_for_his_highest"
     },
     {
       "id": "cowman-streams-in-the-desert",
@@ -18,7 +19,8 @@
       "name": "Cowman - Streams in the Desert",
       "description": "Streams in the Desert",
       "author": "Cowman",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "cowman_streams_in_the_desert"
     },
     {
       "id": "heinrich-von-bogatzky-golden-treasury",
@@ -27,7 +29,8 @@
       "name": "Heinrich von Bogatzky - Golden Treasury",
       "description": "Golden Treasury",
       "author": "Heinrich von Bogatzky",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "heinrich_von_bogatzky_golden_treasury"
     },
     {
       "id": "meyer-our-daily-walk",
@@ -36,7 +39,8 @@
       "name": "Meyer - Our Daily Walk",
       "description": "Our Daily Walk",
       "author": "Meyer",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "meyer_our_daily_walk"
     },
     {
       "id": "meyer-thoughts-for-the-quiet-hour",
@@ -45,7 +49,8 @@
       "name": "Meyer - Thoughts for the Quiet Hour",
       "description": "Thoughts for the Quiet Hour",
       "author": "Meyer",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "meyer_thoughts_for_the_quiet_hour"
     },
     {
       "id": "smith-believers-daily-remembrance",
@@ -54,7 +59,8 @@
       "name": "Smith - Believers Daily Remembrance",
       "description": "Believers Daily Remembrance",
       "author": "Smith",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "smith_believers_daily_remembrance"
     },
     {
       "id": "spurgeon-interpreter-year-1",
@@ -63,7 +69,8 @@
       "name": "Spurgeon - Interpreter - Year 1",
       "description": "Interpreter - Year 1",
       "author": "Spurgeon",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "spurgeon_interpreter_year_1"
     },
     {
       "id": "spurgeon-interpreter-year-2",
@@ -72,7 +79,8 @@
       "name": "Spurgeon - Interpreter - Year 2",
       "description": "Interpreter - Year 2",
       "author": "Spurgeon",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "spurgeon_interpreter_year_2"
     },
     {
       "id": "spurgeon-interpreter-with-morning-and-evening",
@@ -81,7 +89,8 @@
       "name": "Spurgeon - Interpreter with Morning and Evening",
       "description": "Interpreter with Morning and Evening",
       "author": "Spurgeon",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "spurgeon_interpreter_with_morning_and_evening"
     }
   ]
 }
