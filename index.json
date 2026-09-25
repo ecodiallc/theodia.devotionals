@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-25T00:00:00.000Z",
+  "packages": [
+    {
+      "id": "chambers-my-utmost-for-his-highest",
+      "type": "devotional",
+      "path": "Chambers - My Utmost For His Highest.devotional.zip",
+      "name": "Chambers - My Utmost For His Highest",
+      "description": "My Utmost For His Highest",
+      "author": "Chambers",
+      "version": "1.0.0"
+    },
+    {
+      "id": "cowman-streams-in-the-desert",
+      "type": "devotional",
+      "path": "Cowman - Streams in the Desert.devotional.zip",
+      "name": "Cowman - Streams in the Desert",
+      "description": "Streams in the Desert",
+      "author": "Cowman",
+      "version": "1.0.0"
+    },
+    {
+      "id": "heinrich-von-bogatzky-golden-treasury",
+      "type": "devotional",
+      "path": "Heinrich von Bogatzky - Golden Treasury.devotional.zip",
+      "name": "Heinrich von Bogatzky - Golden Treasury",
+      "description": "Golden Treasury",
+      "author": "Heinrich von Bogatzky",
+      "version": "1.0.0"
+    },
+    {
+      "id": "meyer-our-daily-walk",
+      "type": "devotional",
+      "path": "Meyer - Our Daily Walk.devotional.zip",
+      "name": "Meyer - Our Daily Walk",
+      "description": "Our Daily Walk",
+      "author": "Meyer",
+      "version": "1.0.0"
+    },
+    {
+      "id": "meyer-thoughts-for-the-quiet-hour",
+      "type": "devotional",
+      "path": "Meyer - Thoughts for the Quiet Hour.devotional.zip",
+      "name": "Meyer - Thoughts for the Quiet Hour",
+      "description": "Thoughts for the Quiet Hour",
+      "author": "Meyer",
+      "version": "1.0.0"
+    },
+    {
+      "id": "smith-believers-daily-remembrance",
+      "type": "devotional",
+      "path": "Smith - Believers Daily Remembrance.devotional.zip",
+      "name": "Smith - Believers Daily Remembrance",
+      "description": "Believers Daily Remembrance",
+      "author": "Smith",
+      "version": "1.0.0"
+    },
+    {
+      "id": "spurgeon-interpreter-year-1",
+      "type": "devotional",
+      "path": "Spurgeon - Interpreter - Year 1.devotional.zip",
+      "name": "Spurgeon - Interpreter - Year 1",
+      "description": "Interpreter - Year 1",
+      "author": "Spurgeon",
+      "version": "1.0.0"
+    },
+    {
+      "id": "spurgeon-interpreter-year-2",
+      "type": "devotional",
+      "path": "Spurgeon - Interpreter - Year 2.devotional.zip",
+      "name": "Spurgeon - Interpreter - Year 2",
+      "description": "Interpreter - Year 2",
+      "author": "Spurgeon",
+      "version": "1.0.0"
+    },
+    {
+      "id": "spurgeon-interpreter-with-morning-and-evening",
+      "type": "devotional",
+      "path": "Spurgeon - Interpreter with Morning and Evening.devotional.zip",
+      "name": "Spurgeon - Interpreter with Morning and Evening",
+      "description": "Interpreter with Morning and Evening",
+      "author": "Spurgeon",
+      "version": "1.0.0"
+    }
+  ]
+}
