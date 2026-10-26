@@ -11,3 +11,9 @@
 | Spurgeon | Interpreter - Year 1 |
 | Spurgeon | Interpreter - Year 2 |
 | Spurgeon | Interpreter with Morning and Evening |
+
+### Download Theodia.app
+
+- [App Store](https://apps.apple.com/us/app/theodia/id6783143344)
+- [Google Play](https://play.google.com/store/apps/details?id=com.ecodia.theodia)
+
